@@ -1,6 +1,7 @@
-Feature list: 
+# Feature list: 
 
-VISUALS:
+# VISUALS:
+
 Custom Names
 Polychromatic
 Name tag Tweaks
@@ -28,7 +29,8 @@ Disable Attached Arrows
 Item Animations
 Disable Enchantment Glint
 
-SKYBLOCK:
+# SKYBLOCK:
+
 Command Keybinds
 Item Rarity Showcase
 Old Symbols
@@ -38,13 +40,15 @@ Old Master Star
 Slot Binding
 Hellstorm Timer
 
-DUNGEONS:
+# DUNGEONS:
+
 LB Timer
 Star Mob Highlight
 Room Alerts
 Mage Beam
 
-MISC:
+# MISC:
+
 No Cursor Reset
 Borderless Fullscreen
 Auto Copy Screenshot
