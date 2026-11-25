@@ -2,12 +2,12 @@
 
 # How to install?
 
-Install Fabric for Minecraft 26.3
-Install Fabric API
-Download the latest mod file
-Put the downloaded .jar files into your .minecraft/mods folder
-Launch Minecraft using the Fabric profile
-Type  /hael9 in chat to open the config menu.
+1. Install Fabric for Minecraft 26.3
+2. Install Fabric API
+3. Download the latest mod file
+4. Put the downloaded .jar files into your .minecraft/mods folder
+5. Launch Minecraft using the Fabric profile
+6. Type  /hael9 in chat to open the config menu.
 
 # What is this?
 
