@@ -14,4 +14,4 @@
 Hypixel Skyblock mod for 26.3 Fabric, made with AI. all features are personally tested by me.
 
 # Disclaimer
-I am NOT hael9, I have his discord tag @hael9 and made this mod as a joka and as something to spend time on.
+I am NOT hael9, I have his discord tag @hael9 and made this mod as a joke and as something to spend time on.
