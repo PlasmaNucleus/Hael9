@@ -57,7 +57,7 @@ I am NOT hael9, I have his discord tag @hael9 and made this mod as a joke and as
 6. Old Master Star
 7. Slot Binding
 8. Hellstorm Timer
-Legacy Axes
+9. Legacy Axes
 
 # DUNGEONS:
 
