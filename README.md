@@ -41,7 +41,7 @@ I am NOT hael9, I have his discord tag @hael9 and made this mod as a joke and as
 19. Centered Crosshair
 20. Fullbright
 21. Third Person Crosshair
-22. Hotbar Size *kinda bad atm*
+22. Container Size
 23. Hide Cooldowns
 24. Disable Attached Arrows
 25. Item Animations
@@ -57,6 +57,7 @@ I am NOT hael9, I have his discord tag @hael9 and made this mod as a joke and as
 6. Old Master Star
 7. Slot Binding
 8. Hellstorm Timer
+Legacy Axes
 
 # DUNGEONS:
 
